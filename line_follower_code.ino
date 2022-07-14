@@ -1,6 +1,6 @@
 // Done final code by "TEAM ROBOMAZE" using object oriented programming language for line follower car :
 
-//This porsion from global veriables to creating class and defining public and constructor is done by:" JAGVEER SINGH BHAKAR(Captain)"  
+//This porsion from global veriables to creating class and defining public and constructor is done by:" JAGVEER SINGH BHAKAR"  
 
 class robot {
 
